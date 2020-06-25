@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: floralwhite;
+    border-width: thick;
+    border: 3px solid blue;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+    
+   h1 {
+    border-bottom: 5px solid red;
+}
+    
+
+
+
+
